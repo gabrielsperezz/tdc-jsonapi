@@ -11,3 +11,6 @@
   - `GET http://localhost:3000/articles` para listar os artigos
   - `GET http://localhost:3000/articles?include=author` para listar os artigos e também trazer author  
   - `POST http://localhost:3000/articles` para criar os artigos
+
+
+Apresentação : https://docs.google.com/presentation/d/1GcOyH2IXcwMeDXOFxXGxInmM_6b_XCK938DNFUaKUJM/edit?usp=sharing
