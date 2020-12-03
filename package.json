@@ -1,0 +1,24 @@
+{
+  "name": "api-example",
+  "version": "1.0.1",
+  "private": true,
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "express-simple-firewall": "1.0.x",
+    "express-simple-router": "0.0.x",
+    "json-api": "^3.0.0-rc.6.0.1",
+    "dotenv-safe": "^8.1.0",
+    "mongoose": "4.8.x",
+    "path-to-regexp": "0.1.2",
+    "pluralize": "0.0.10"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
