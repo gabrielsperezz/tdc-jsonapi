@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d248977-77ff-4164-b5ad-c93f7305108c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/article.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource-descriptions/article.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/organization.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/person.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/school.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resource-descriptions/organizations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resource-descriptions/people.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resource-descriptions/people.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resource-descriptions/schools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +13,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="2" selection-end-line="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -67,6 +60,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/resource-descriptions/article.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -85,62 +79,6 @@
             <path>
               <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@json-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@json-api" type="462c0819:PsiDirectoryNode" />
-              <item name="querystring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@json-api" type="462c0819:PsiDirectoryNode" />
-              <item name="querystring" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="@json-api" type="462c0819:PsiDirectoryNode" />
-              <item name="querystring" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="json-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="json-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json-api-example" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="json-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="http-strategies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="json-api-example" type="b2602c69:ProjectViewProjectNode" />
@@ -197,12 +135,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606998456575</updated>
-      <workItem from="1606998458548" duration="3775000" />
+      <workItem from="1606998458548" duration="4366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3775000" />
+    <option name="totallyTimeSpent" value="4366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
@@ -352,7 +290,24 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="2" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
